@@ -1,0 +1,7 @@
+C:\Users\danni\OneDrive\Escritorio\Gestion_Inventario\Gestion_Inventario\bin\Debug\Gestion_Inventario.exe.config
+C:\Users\danni\OneDrive\Escritorio\Gestion_Inventario\Gestion_Inventario\bin\Debug\Gestion_Inventario.exe
+C:\Users\danni\OneDrive\Escritorio\Gestion_Inventario\Gestion_Inventario\bin\Debug\Gestion_Inventario.pdb
+C:\Users\danni\OneDrive\Escritorio\Gestion_Inventario\Gestion_Inventario\obj\Debug\Gestion_Inventario.csproj.AssemblyReference.cache
+C:\Users\danni\OneDrive\Escritorio\Gestion_Inventario\Gestion_Inventario\obj\Debug\Gestion_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\danni\OneDrive\Escritorio\Gestion_Inventario\Gestion_Inventario\obj\Debug\Gestion_Inventario.exe
+C:\Users\danni\OneDrive\Escritorio\Gestion_Inventario\Gestion_Inventario\obj\Debug\Gestion_Inventario.pdb

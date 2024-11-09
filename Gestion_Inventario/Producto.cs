@@ -10,14 +10,16 @@ namespace Gestion_Inventario
     {
         public string Nombre { get; set; }
         public decimal Precio { get; set; }
+
         public Producto(string nombre, decimal precio)
         {
             Nombre = nombre;
             Precio = precio;
         }
-        public void MostrarInfo() 
+
+        public void MostrarInformacion()
         {
-            Console.WriteLine($"Producto: {Nombre}, Precio: C${Precio}");
+            Console.WriteLine($"Producto: {Nombre}, Precio: {Precio:C}");
         }
     }
 }

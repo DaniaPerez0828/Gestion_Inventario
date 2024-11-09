@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danni\\OneDrive\\Escritorio\\Gestion_Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5943A8-0394-462F-A211-16C058E7F946}|Gestion_Inventario\\Gestion_Inventario.csproj|c:\\users\\danni\\onedrive\\escritorio\\gestion_inventario\\gestion_inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5943A8-0394-462F-A211-16C058E7F946}|Gestion_Inventario\\Gestion_Inventario.csproj|solutionrelative:gestion_inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5943A8-0394-462F-A211-16C058E7F946}|Gestion_Inventario\\Gestion_Inventario.csproj|C:\\Users\\danni\\OneDrive\\Escritorio\\Gestion_Inventario\\gestion_inventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5943A8-0394-462F-A211-16C058E7F946}|Gestion_Inventario\\Gestion_Inventario.csproj|solutionrelative:gestion_inventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5943A8-0394-462F-A211-16C058E7F946}|Gestion_Inventario\\Gestion_Inventario.csproj|C:\\Users\\danni\\OneDrive\\Escritorio\\Gestion_Inventario\\gestion_inventario\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5943A8-0394-462F-A211-16C058E7F946}|Gestion_Inventario\\Gestion_Inventario.csproj|solutionrelative:gestion_inventario\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danni\\OneDrive\\Escritorio\\Gestion_Inventario\\Gestion_Inventario\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion_Inventario\\Program.cs",
+              "ToolTip": "C:\\Users\\danni\\OneDrive\\Escritorio\\Gestion_Inventario\\Gestion_Inventario\\Program.cs",
+              "RelativeToolTip": "Gestion_Inventario\\Program.cs",
+              "ViewState": "AgIAAHcAAAAAAMCCVM0twIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:17:36.585Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\danni\\OneDrive\\Escritorio\\Gestion_Inventario\\Gestion_Inventario\\Producto.cs",
+              "RelativeDocumentMoniker": "Gestion_Inventario\\Producto.cs",
+              "ToolTip": "C:\\Users\\danni\\OneDrive\\Escritorio\\Gestion_Inventario\\Gestion_Inventario\\Producto.cs",
+              "RelativeToolTip": "Gestion_Inventario\\Producto.cs",
+              "ViewState": "AgIAAAgAAAAAAIAS1/I0wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:09:17.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\danni\\OneDrive\\Escritorio\\Gestion_Inventario\\Gestion_Inventario\\Inventario.cs",
+              "RelativeDocumentMoniker": "Gestion_Inventario\\Inventario.cs",
+              "ToolTip": "C:\\Users\\danni\\OneDrive\\Escritorio\\Gestion_Inventario\\Gestion_Inventario\\Inventario.cs",
+              "RelativeToolTip": "Gestion_Inventario\\Inventario.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:32:36.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
